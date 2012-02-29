@@ -8,3 +8,6 @@
 https://www.eff.org/cases/astrolabe-v-olson
 
 ###Fork and add some others and I'll merge em' in###
+
+####Why www.opensourcetrader.com???####
+Shameless plug - [open source software for financial markets and trading][http://www.opensourcetrdaer.com]
