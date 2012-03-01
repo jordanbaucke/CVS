@@ -3,7 +3,7 @@
 ##Handy CVS text datafiles for developers whom need to seed picklists, databases, wordlists, etc.##
 
 * tz_database.cvs (derived from the file zone.tab from the 2010e edition of the database) http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-* us_states_abbreviations - US States and abbreviations
+* us_states_abbreviations.cvs - US States and abbreviations
 
 ###Yes this stuff IS open-source###
 https://www.eff.org/cases/astrolabe-v-olson
