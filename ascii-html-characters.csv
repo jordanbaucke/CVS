@@ -1,0 +1,227 @@
+friendly,numerical code,hex,display
+,&#09;,,Horizontal Tab
+,&#10;,,Line feed
+,&#32;,20,space
+,&#33;,21,Exclamation point
+&quot;,&#34;,22,Double quote
+,&#35;,23,Number sign
+,&#36;,24,Dollar sign
+,&#37;,25,Percent sign
+&#38;,&#38;,26,#38ersand (and sign)
+,&#39;,27,Single quote
+,&#40;,28,Left parenthesis
+,&#41;,29,Right parenthesis
+,&#42;,2A,Asterisk (star)
+,&#43;,2B,Plus
+,&#44;,2C,Comma
+,&#45;,2D,Minus (hyphen)
+,&#46;,2E,Period
+,&#47;,2F,Forward slash
+,&#48;,30,Zero
+,&#49;,31,One
+,&#50;,32,Two
+,&#51;,33,Three
+,&#52;,34,Four
+,&#53;,35,Five
+,&#54;,36,Six
+,&#55;,37,Seven
+,&#56;,38,Eight
+,&#57;,39,Nine
+,&#58;,3A,Colon
+,&#59;,3B,Semi-colon
+&lt;,&#60;,3C,Less-than sign
+,&#61;,3D,Equal sign
+&gt;,&#62;,3E,Greater-than sign
+,&#63;,3F,Question mark
+,&#64;,40,At-sign
+,&#65;,41,Capital a
+,&#66;,42,Capital b
+,&#67;,43,Capital c
+,&#68;,44,Capital d
+,&#69;,45,Capital e
+,&#70;,46,Capital f
+,&#71;,47,Capital g
+,&#72;,48,Capital h
+,&#73;,49,Capital i
+,&#74;,4A,Capital j
+,&#75;,4B,Capital k
+,&#76;,4C,Capital l
+,&#77;,4D,Capital m
+,&#78;,4E,Capital n
+,&#79;,4F,Capital o
+,&#80;,50,Capital p
+,&#81;,51,Capital q
+,&#82;,52,Capital r
+,&#83;,53,Capital s
+,&#84;,54,Capital t
+,&#85;,55,Capital u
+,&#86;,56,Capital v
+,&#87;,57,Capital w
+,&#88;,58,Capital x
+,&#89;,59,Capital y
+,&#90;,5A,Capital z
+,&#91;,5B,Left square bracket
+,&#92;,5C,Back slash
+,&#93;,5D,Right square bracket
+,&#94;,5E,Caret
+,&#95;,5F,Underscore
+,&#96;,60,Grave accent
+,&#97;,61,Lowercase a
+,&#98;,62,Lowercase b
+,&#99;,63,Lowercase c
+,&#100;,64,Lowercase d
+,&#101;,65,Lowercase e
+,&#102;,66,Lowercase f
+,&#103;,67,Lowercase g
+,&#104;,68,Lowercase h
+,&#105;,69,Lowercase i
+,&#106;,6A,Lowercase j
+,&#107;,6B,Lowercase k
+,&#108;,6C,Lowercase l
+,&#109;,6D,Lowercase m
+,&#110;,6E,Lowercase n
+,&#111;,6F,Lowercase o
+,&#112;,70,Lowercase p
+,&#113;,71,Lowercase q
+,&#114;,72,Lowercase r
+,&#115;,73,Lowercase s
+,&#116;,74,Lowercase t
+,&#117;,75,Lowercase u
+,&#118;,76,Lowercase v
+,&#119;,77,Lowercase w
+,&#120;,78,Lowercase x
+,&#121;,79,Lowercase y
+,&#122;,7A,Lowercase z
+,&#123;,7B,Left curly brace
+,&#124;,7C,Vertical bar
+,&#125;,7D,Right curly brace
+&tilde;,&#126;,7E,tilde
+,&#127;,7F,Not defined
+,&#128;,20AC,Euro
+,&#129;,,Unknown
+&sbquo;,&#130;,201A,Single low-quote
+,&#131;,192,Function symbol (lowercase f with hook)
+&dbquo;,&#132;,201E,Double low-quote
+,&#133;,2026,Elipsis
+&dagger;,&#134;,2020,Dagger
+&Dagger;,&#135;,2021,Double dagger
+,&#136;,,Hatchek
+&permil;,&#137;,2030,Per million symbol
+,&#138;,160,Capital esh
+&lsaquo;,&#139;,,Left single angle quote
+,&#140;,152,OE ligature
+,&#141;,,Unknown
+,&#142;,,Capital ž
+,&#143;,,Unknown
+,&#144;,,Unknown
+&lsquo;,&#145;,2018,Left single-quote
+&rsquo;,&#146;,2019,Right single-quote
+&ldquo;,&#147;,201C,Left double-quote
+&rdquo;,&#148;,201D,Right double-quote
+,&#149;,2022,Small bullet
+&ndash;,&#150;,2013,En dash
+&mdash;,&#151;,2014,Em dash
+&tilde,&#152;,,Tilde
+&trade;,&#153;,2122,Trademark
+,&#154;,161,Lowercase esh
+&rsaquo;,&#155;,,Right single angle quote
+,&#156;,153,oe ligature
+,&#157;,,Unknown
+,&#158;,,Lowercase ž
+&Yuml;,&#159;,178,Uppercase y-umlaut
+&nbsp;,&#160;,A0,Non-breaking space
+&iexcl;,&#161;,A1,Inverted exclamation point
+&cent;,&#162;,A2,Cent
+&pound;,&#163;,A3,Pound currency sign
+&curren;,&#164;,A4,Currency sign
+&yen;,&#165;,A5,Yen currency sign
+&brvbar;,&#166;,A6,Broken vertical bar
+&sect;,&#167;,A7,Section symbol
+&uml;,&#168;,A8,Umlaut (Diaeresis)
+&copy;,&#169;,A9,Copyright
+&ordf;,&#170;,AA,Feminine ordinal indicator (superscript lowercase a)
+&laquo;,&#171;,AB,Left angle quote
+&not;,&#172;,AC,Not sign
+&shy;,&#173;,AD,Soft hyphen
+&reg;,&#174;,AE,Registered sign
+&macr;,&#175;,AF,Macron
+&deg;,&#176;,B0,Degree sign
+&plusmn;,&#177;,B1,Plus/minus sign
+&sup2;,&#178;,B2,Superscript 2
+&sup3;,&#179;,B3,Superscript 3
+,&#180;,B4,Acute accent
+&micro;,&#181;,B5,Micro sign
+&para;,&#182;,B6,Pilcrow sign (paragraph)
+&middot;,&#183;,B7,Middle dot
+&cedil;,&#184;,B8,Cedilla
+&sup1;,&#185;,B9,Superscript 1
+&ordm;,&#186;,BA,Masculine ordinal indicator (superscript o)
+&raquo;,&#187;,BB,Right angle quote
+&frac14;,&#188;,BC,One quarter fraction
+&frac12;,&#189;,BD,One half fraction
+&frac34;,&#190;,BE,Three quarters fraction
+¿,&#191;,BF,Inverted question mark
+&Agrave;,&#192;,C0,A grave accent
+&Aacute;,&#193;,C1,A accute accent
+&Acirc;,&#194;,C2,A circumflex
+&Atilde;,&#195;,C3,A tilde
+&Auml;,&#196;,C4,A umlaut
+&Aring;,&#197;,C5,A ring
+&AElig;,&#198;,C6,AE ligature
+&Ccedil;,&#199;,C7,C cedilla
+&Egrave;,&#200;,C8,E grave
+&Eacute;,&#201;,C9,E acute
+&Ecirc;,&#202;,CA,E circumflex
+&Euml;,&#203;,CB,E umlaut
+&Igrave;,&#204;,CC,I grave
+&Iacute;,&#205;,CD,I acute
+&Icirc;,&#206;,CE,I circumflex
+&Iuml;,&#207;,CF,I umlaut
+&ETH;,&#208;,D0,Eth
+&Ntilde;,&#209;,D1,N tilde (enye)
+&Ograve;,&#210;,D2,O grave
+&Oacute;,&#211;,D3,O acute
+&Ocirc;,&#212;,D4,O circumflex
+&Otilde;,&#213;,D5,O tilde
+&Ouml;,&#214;,D6,O umlaut
+&times;,&#215;,D7,Multiplication sign
+&Oslash;,&#216;,D8,O slash
+&Ugrave;,&#217;,D9,U grave
+&Uacute;,&#218;,DA,U acute
+&Ucirc;,&#219;,DB,U circumflex
+&Uuml;,&#220;,DC,U umlaut
+&Yacute;,&#221;,DD,Y acute
+&THORN;,&#222;,DE,Thorn
+&szlig;,&#223;,DF,SZ ligature
+&agrave;,&#224;,E0,a grave
+&aacute;,&#225;,E1,a acute
+&acirc;,&#226;,E2,a circumflex
+&atilde;,&#227;,E3,a tilde
+&auml;,&#228;,E4,a umlaut
+&aring;,&#229;,E5,a ring
+&aelig;,&#230;,E6,ae ligature
+&ccedil;,&#231;,E7,c cedilla
+&egrave;,&#232;,E8,e grave
+&eacute;,&#233;,E9,e acute
+&ecirc;,&#234;,EA,e circumflex
+&euml;,&#235;,EB,e umlaut
+&igrave;,&#236;,EC,i grave
+&iacute;,&#237;,ED,i acute
+&icirc;,&#238;,EE,i circumflex
+&iuml;,&#239;,EF,i umlaut
+&eth;,&#240;,F0,eth
+&ntilde;,&#241;,F1,n tilde
+&ograve;,&#242;,F2,o grave
+&oacute;,&#243;,F3,o acute
+&ocirc;,&#244;,F4,o circumflex
+&otilde;,&#245;,F5,o tilde
+&ouml;,&#246;,F6,o umlaut
+&divide;,&#247;,F7,Division symbol
+&oslash;,&#248;,F8,o slash
+&ugrave;,&#249;,F9,u grave
+&uacute;,&#250;,FA,u acute
+&ucirc;,&#251;,FB,u circumflex
+&uuml;,&#252;,FC,u umlaut
+&yacute;,&#253;,FD,y acute
+&thorn;,&#254;,FE,thorn
+&yuml;,&#255;,FF,y umlaut
